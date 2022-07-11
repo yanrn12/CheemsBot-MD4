@@ -37,23 +37,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc" //ur owner name
-global.ytname = "YT: ARULL OFC" //ur yt chanel name
+global.vcardowner = ['6289516947204'] //ur owner number
+global.ownername = "Iyanfc" //ur owner name
+global.ytname = "YT: IYN OFC" //ur yt chanel name
 global.socialm = "GitHub: Warikrr" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bomdy 
-global.owner = ['6285822347348']
-global.ownertag = '6285822347348' //ur tag number
-global.botname = 'ArullBotzMD' //ur bot name
-global.linkz = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5" //ur website to be displayed
+global.owner = ['6289516947204']
+global.ownertag = '6289516947204' //ur tag number
+global.botname = 'IyanBotzMD' //ur bot name
+global.linkz = "https://saweria.co/IyanMd" //your theme url which will be displayed on whatsapp
+global.websitex = "https://saweria.co/IyanMd" //ur website to be displayed
 global.botscript = 'https://youtu.be/k3QkeVdAMOs' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "😩" //ur theme emoji
 global.packname = "Sticker by" //ur sticker watermark packname
-global.author = "ArullOfc" //ur sticker watermark author
+global.author = "IyanOfc" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
